@@ -51,3 +51,7 @@ else:
     print("Angka kedua tidak boleh 0")
 
 # Operator tambahan : perpangkatan
+hasil_2015 = angka1_2015 
+hasil_2015 **= angka2_2015
+print("\nOperator perpangkatan (**=)")
+print("Hasil =",hasil_2015)
