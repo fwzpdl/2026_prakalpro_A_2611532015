@@ -27,5 +27,5 @@ match bulan :
     case 12:
         print("Desember")
     case _:
-        print("Angka tidak valid")
+        print("Angka tidak valisy")
 

@@ -31,4 +31,4 @@ print("\n===RINCIAN PEMBAYARAN===")
 print(f"Total diskon   : {total_diskon_persen}% (Rp {nominal_diskon_2015})")
 print(f"Total bayar    : Rp {total_bayar_2015}")
 
-print(f"total diskon yang anda dapatkan : {total_diskon_persen}")
+print(f"total diskon yang anda dapatkan : {total_diskon_persen}%")
