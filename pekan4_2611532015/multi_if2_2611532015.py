@@ -28,7 +28,7 @@ total_bayar_2015 = total_belanja_2015 - nominal_diskon_2015
 
 #output hasil
 print("\n===RINCIAN PEMBAYARAN===")
-print(f"Total diskon   : {total_diskon_persen}% (Rp {nominal_diskon_2015:,.Of})")
-print(f"Total bayar    : Rp {total_bayar_2015:,.Of}")
+print(f"Total diskon   : {total_diskon_persen}% (Rp {nominal_diskon_2015})")
+print(f"Total bayar    : Rp {total_bayar_2015}")
 
 print(f"total diskon yang anda dapatkan : {total_diskon_persen}")
