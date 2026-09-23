@@ -19,7 +19,7 @@ match bulan :
     case 8:
         print("Agustus")
     case 9:
-        print("Sepetember")
+        print("September")
     case 10:
         print("Oktober")
     case 11:
@@ -27,5 +27,5 @@ match bulan :
     case 12:
         print("Desember")
     case _:
-        print("Angka tidak valisy")
+        print("Angka tidak valid")
 
